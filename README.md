@@ -28,8 +28,7 @@
 
 ## 📈 Meus Status
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BeaUoU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaUoU&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=BeaUoU&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📫 Como me encontrar <img src="https://media.tenor.com/ZnxwnxeBEfcAAAAM/cat-typing.gif" width="45" align="center" />
