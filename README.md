@@ -1,16 +1,36 @@
-## Hi there 👋
+# Oi, eu sou a Maria Beatriz! ✨
 
-<!--
-**BeaUoU/BeaUou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Estudante de Engenharia de Computação na UFC Sobral
+🎮 Desenvolvendo projetos no Hub de Games e PET-Saúde Digital
+🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Foco em **Desenvolvimento Android Nativo** usando Kotlin e Jetpack Compose.
+- 📊 Explorando análise de dados e machine learning para a área da saúde.
+- ⚙️ Curto a área de embarcados, mexendo com ESP32 e microcontroladores.
+- 👾 Nas horas vagas, você me encontra fazendo pixel art no Aseprite, testando receitas de brownie ou jogando no meu emulador retrô.
+
+## 🛠️ Minhas Ferramentas
+
+### Mobile & Software
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Design & Prototipagem
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📈 Meus Status
+<!-- Aqui você substitui "SEU_USUARIO" pelo seu @ do GitHub -->
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BeaUoU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaUoU&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-almeida-aaa930392/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beaalmeida@alu.ufc.br)
