@@ -32,6 +32,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaUoU&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 📫 Como me encontrar <img src="https://tenor.com/pt-BR/view/cat-gif-14087697313482866514" width="45" align="center" />
+## 📫 Como me encontrar
+<img src="https://tenor.com/pt-BR/view/cat-gif-14087697313482866514" width="45" align="center" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-almeida-aaa930392/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beaalmeida@alu.ufc.br)
