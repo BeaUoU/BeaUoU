@@ -27,8 +27,8 @@
 ## 📈 Meus Status
 <!-- Aqui você substitui "SEU_USUARIO" pelo seu @ do GitHub -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BeaUoU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaUoU&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beauou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauou&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 📫 Como me encontrar
