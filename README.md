@@ -100,4 +100,3 @@
     <img src="https://img.shields.io/badge/Gmail-957DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
