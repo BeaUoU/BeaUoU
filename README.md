@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg">
+<img src="lelouch-code-geass.gif" width="70" align="center" /> <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" />
 </a>
 
