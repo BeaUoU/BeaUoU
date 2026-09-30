@@ -40,13 +40,13 @@
 
 <br><br>
 <div align="center">
-  <img src="purple-heart-purple.gif" width="40"/>
+  <img src="mylili.gif" width="10%"/>
 </div>
 <br><br>
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/MINHAS_FERRAMENTAS-957DAD?style=for-the-badge" alt="Minhas Ferramentas" />
+  <img src="https://img.shields.io/badge/MINHAS_FERRAMENTAS-5C4B75?style=for-the-badge" alt="Minhas Ferramentas" />
 </div>
 <br>
 
@@ -70,23 +70,23 @@
 
 <br><br>
 <div align="center">
-  <img src="kubbi-chiptune.gif" width="5%" alt="Banner do meu perfil"/>
+  <img src="myriri.gif" width="10%" alt="Banner do meu perfil"/>
 </div>
 <br><br>
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/MINHA_ATIVIDADE-957DAD?style=for-the-badge&logo=sparkles&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/MINHA_ATIVIDADE-5C4B75?style=for-the-badge&logo=sparkles&logoColor=7F52FF" />
 </div>
 <br>
 
 <div align="center">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=BeaUoU&theme=radical" alt="GitHub Streak" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=BeaUoU&background=151515&border=5C4B75&ring=7F52FF&fire=7F52FF&currStreakNum=7F52FF&sideNums=957DAD&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=957DAD" alt="GitHub Streak" />
 </div>
 
 <br><br>
 <div align="center">
-  <img src="purple-heart-purple.gif" width="40"/>
+  <img src="myfifi.gif" width="10%"/>
 </div>
 <br><br>
 
