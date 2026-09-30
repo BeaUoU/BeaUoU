@@ -17,7 +17,7 @@
 
 <br><br>
 <div align="center">
-  <img src="kubbi-chiptune.gif" width="5%" alt="Banner do meu perfil"/>
+  <img src="mylirow.gif" width="10%" alt="Banner do meu perfil"/>
 </div>
 <br><br>
 
