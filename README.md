@@ -4,7 +4,7 @@
 🎮 Desenvolvendo projetos no Hub de Games e PET-Saúde Digital
 🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
 
-## <img src="my-little-pony-my-little-pony-friendship-is-magic.gif" width="70" align="absmiddle" /> Sobre mim
+## <img src="purple-heart-purple.gif" width="40" align="absmiddle" /> Sobre mim
 - 📱 Foco em **Desenvolvimento Android Nativo** usando Kotlin e Jetpack Compose.
 - 📊 Explorando análise de dados e machine learning para a área da saúde.
 - ⚙️ Curto a área de embarcados, mexendo com ESP32 e microcontroladores.
