@@ -7,7 +7,11 @@
 🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
 
 ## 🚀 Sobre mim
+<br>
 
+<div align="center">
+  <img src="初音ミク-ドット.gif" width="30%" alt="Hatsune" />
+</div>
 - 📱 Foco em **Desenvolvimento Android Nativo** usando Kotlin e Jetpack Compose.
 - 📊 Explorando análise de dados e machine learning para a área da saúde.
 - ⚙️ Curto a área de embarcados, mexendo com ESP32 e microcontroladores.
@@ -32,11 +36,6 @@
 </div>
 
 ## 📫 Como me encontrar 
-<br>
-
-<div align="center">
-  <img src="初音ミク-ドット.gif" width="100%" alt="Hatsune" />
-</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-almeida-aaa930392/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beaalmeida@alu.ufc.br)
 
