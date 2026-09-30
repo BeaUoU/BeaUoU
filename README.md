@@ -1,6 +1,4 @@
-<img src="lelouch-code-geass.gif" width="70" align="center" /> <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" />
-</a>
+<img src="lelouch-code-geass.gif" width="70" align="absmiddle" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
 
 👩‍💻 Estudante de Engenharia de Computação na UFC Sobral
 🎮 Desenvolvendo projetos no Hub de Games e PET-Saúde Digital
