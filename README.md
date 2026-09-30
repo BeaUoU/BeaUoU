@@ -2,7 +2,7 @@
   <img src="baixados (14).jpeg" width="100%" alt="Banner do meu perfil" />
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mali&weight=600&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mali&weight=600&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Oi,+me+chamo+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
 </div>
 
 <table align="center">
