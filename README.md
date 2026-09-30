@@ -1,10 +1,10 @@
-<img src="lelouch-code-geass.gif" width="70" align="absmiddle" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
+<img src="my-little-pony-my-little-pony-friendship-is-magic.gif" width="70" align="absmiddle" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
 
 👩‍💻 Estudante de Engenharia de Computação na UFC Sobral
 🎮 Desenvolvendo projetos no Hub de Games e PET-Saúde Digital
 🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
 
-## <img src="初音ミク-ドット.gif" width="35" align="absmiddle" /> Sobre mim
+## <img src="my-little-pony-my-little-pony-friendship-is-magic.gif" width="70" align="absmiddle" /> Sobre mim
 - 📱 Foco em **Desenvolvimento Android Nativo** usando Kotlin e Jetpack Compose.
 - 📊 Explorando análise de dados e machine learning para a área da saúde.
 - ⚙️ Curto a área de embarcados, mexendo com ESP32 e microcontroladores.
