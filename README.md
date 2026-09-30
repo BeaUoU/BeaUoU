@@ -1,16 +1,35 @@
-<img src="my-little-pony-my-little-pony-friendship-is-magic.gif" width="70" align="absmiddle" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F52FF&center=false&vCenter=true&width=800&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
+<div align="center">
+  <img src="flower-purple.gif" width="100%" alt="Banner do meu perfil" />
+</div>
+<br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mali&weight=600&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+a+Maria+Beatriz!+✨;Desenvolvedora+Android+Nativa;Explorando+Sistemas+Embarcados;Entusiasta+de+Pixel+Art" alt="Typing SVG" align="absmiddle" /></a>
+</div>
 
-👩‍💻 Estudante de Engenharia de Computação na UFC Sobral
-🎮 Desenvolvendo projetos no Hub de Games e PET-Saúde Digital
-🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
+<table align="center">
+  <tr>
+    <td align="center">
+      👩‍💻 Estudante de <b>Engenharia de Computação</b> na UFC Sobral<br>
+      🎮 Desenvolvendo projetos no <b>Hub de Games</b> e <b>PET-Saúde Digital</b><br>
+      🎨 Entusiasta de desenvolvimento nativo, UI/UX e pixel art!
+    </td>
+  </tr>
+</table>
 
-## <img src="purple-heart-purple.gif" width="40" align="absmiddle" /> Sobre mim
+<br><br>
+
+<br>
+<div>
+  <img src="https://img.shields.io/badge/SOBRE_MIM-1E1E2E?style=for-the-badge&logo=sparkles&logoColor=7F52FF" />
+</div>
+<br>
+
 - 📱 Foco em **Desenvolvimento Android Nativo** usando Kotlin e Jetpack Compose.
 - 📊 Explorando análise de dados e machine learning para a área da saúde.
 - ⚙️ Curto a área de embarcados, mexendo com ESP32 e microcontroladores.
 - 👾 Nas horas vagas, você me encontra fazendo pixel art no Aseprite, testando receitas de brownie ou jogando no meu emulador retrô.
 
-## 🛠️ Minhas Ferramentas
+## <img src="purple-heart-purple.gif" width="40" align="absmiddle" /> Minhas Ferramentas
 
 ### Mobile & Software
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
