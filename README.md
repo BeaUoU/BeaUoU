@@ -100,3 +100,7 @@
     <img src="https://img.shields.io/badge/Gmail-957DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<div align="center">
+  <img src="pngwing.com.png" width="10%" alt="Banner do meu perfil" />
+</div>
