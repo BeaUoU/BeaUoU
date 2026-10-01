@@ -94,7 +94,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/📫_Como_me_encontrar-5C4B75?style=for-the-badge" alt="Como me encontrar" />
   <br><br>
-  <i>Sinta-se à vontade para mandar um "olá" para falarmos sobre Android, pixel art ou trocar ideias de videogame hehe! (◕‿◕✿)</i>
+  <i>Sinta-se à vontade para mandar um "olá" para falarmos sobre Android, pixel art ou trocar ideias sobre videogame hehe! (◕‿◕✿)</i>
   <br><br>
   <a href="mailto:beaalmeida@alu.ufc.br">
     <img src="https://img.shields.io/badge/Gmail-957DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
